@@ -70,3 +70,7 @@ for epoch in range(num_epochs):
 During the training process, the loss is printed at regular intervals to monitor the progress of the model. After training, the autoencoder should be able to reconstruct the input images with minimal loss.
 
 Please refer to the code files for more details.
+
+## License
+
+This project is licensed under a Free License.
